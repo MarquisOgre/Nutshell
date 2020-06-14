@@ -1,4 +1,4 @@
-# Nutshell
+# Nutshell Exchange
 
 ## v2.4
 
